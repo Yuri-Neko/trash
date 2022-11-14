@@ -89,7 +89,7 @@ function getNewHentaiSchedule() {
 	})
 }
 
-// getLatest('', 1).then(console.log)
+getLatest('', 1).then(console.log)
 // getLatest('hentai', 1).then(console.log)
 // getNewHentaiSchedule().then(console.log)
 
